@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KörömSzalon</string>
+    <string name="cats_text">Egy kis nyugi amíg cicákat nézhetünk(az első képen az én cicám van)</string>
+    <string name="sound_play">Lejátszás</string>
+    <string name="sound_pause">Szünet</string>
+    <string name="sound_stop">Megállít</string>
+    <string name="picture_text">Kattints a kamera gombra és elindul a kamera</string>
+    <string name="html_button">Adatok lekérése</string>
+    <string name="camera_button">Kamera</string>
+    <string name="html_text">Ez egy példa az adatok lekérésére html-el mert nem volt jobb ötletem :D</string>
+    <string name="i_have_an_account">Már van fiókom</string>
+    <string name="register">Regisztrál</string>
+    <string name="username">Felhasználónév</string>
+    <string name="registration">Regisztráció</string>
+    <string name="nailsalon24_7">0/24 SZÉPSÉGSZALON</string>
+    <string name="password">Jelszó</string>
+    <string name="email">Email cím</string>
+    <string name="confirm_password">Jelsző Megerősítése</string>
+    <string name="i_dont_have_an_account">Nincs fiókom</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="logout">KIJELENTKEZÉS</string>
+    <string name="sound_player">ZENELEJÁTSZÓ</string>
+    <string name="html_request">HTML LEKÉRÉS</string>
+    <string name="find_artist_home">SZAKEMBEREK</string>
+    <string name="cats">CICÁK</string>
+    <string name="picture">KÉP</string>
+    <string name="fa_makeup_artist">SMINKES</string>
+    <string name="fa_masseuse">MASSZŐR</string>
+    <string name="fa_pedicurist">PEDIKŰRÖS</string>
+    <string name="fa_maniccurist">MANIKŰRÖS</string>
+    <string name="fa_nail_technician">MŰKÖRMÖS</string>
+    <string name="best_artists">Legjobb Szakemberek</string>
+    <string name="back">Vissza</string>
+    <string name="select_date">Válassz Dátumot</string>
+    <string name="book_appointment">Időpont Foglalása</string>
+    <string name="full_name">Teljes Név</string>
+    <string name="address">Cím</string>
+    <string name="fees">Árak</string>
+    <string name="select_time">Válassz időt</string>
+    <string name="phone_number">Telefonszám</string>
+</resources>
